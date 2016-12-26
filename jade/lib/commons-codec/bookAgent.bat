@@ -1,0 +1,1 @@
+javac -classpath <JADE-classes> jade.Boot buyer:BookBuyerAgent.java
